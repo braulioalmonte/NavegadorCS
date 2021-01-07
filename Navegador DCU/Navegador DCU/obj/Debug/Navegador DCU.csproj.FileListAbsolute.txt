@@ -1,0 +1,12 @@
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\bin\Debug\Navegador DCU.exe.config
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\bin\Debug\Navegador DCU.exe
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\bin\Debug\Navegador DCU.pdb
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\obj\Debug\Navegador DCU.csprojAssemblyReference.cache
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\obj\Debug\Navegador_DCU.Form1.resources
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\obj\Debug\Navegador_DCU.Properties.Resources.resources
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\obj\Debug\Navegador DCU.csproj.GenerateResource.cache
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\obj\Debug\Navegador DCU.csproj.CoreCompileInputs.cache
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\obj\Debug\Navegador DCU.exe
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\obj\Debug\Navegador DCU.pdb
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\obj\Debug\Navegador_DCU.Form2.resources
+C:\Users\braul\source\repos\Navegador DCU\Navegador DCU\obj\Debug\Navegador_DCU.Form3.resources
